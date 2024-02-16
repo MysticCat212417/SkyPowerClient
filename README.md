@@ -1,1 +1,1 @@
-# TECNO-Hack
+# SkyPower Client
